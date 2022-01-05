@@ -1,2 +1,9 @@
 # MERN-PROJECT
- Not completed, reference only files.
+
+Usage:
+
+Redux
+React-hook-form
+
+Posts and Post
+Form
